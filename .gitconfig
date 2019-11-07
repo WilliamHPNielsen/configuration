@@ -1,0 +1,8 @@
+[winUpdater]
+	recentlySeenVersion = 2.23.0.windows.1
+[user]
+	name = WilliamHPNielsen
+	email = whpn@mailbox.org
+[alias]
+	cane = commit --amend --no-edit
+	ci = commit
